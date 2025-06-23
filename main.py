@@ -128,10 +128,10 @@ class PharosTestnet:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Pharos Testnet{Fore.BLUE + Style.BRIGHT} Auto BOT
+        {Fore.GREEN + Style.BRIGHT}Pharos Testnet{Fore.BLUE + Style.BRIGHT} BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}PHAROS BOT {Fore.YELLOW + Style.BRIGHT}D.Y.O.R
             """
         )
 
